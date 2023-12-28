@@ -1,0 +1,19 @@
+{
+	"name": "intro-nodejs-v3",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"type": "module",
+	"bin": {
+		"note": "./index.js"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"jest": "^29.7.0",
+		"yargs": "^17.7.2"
+	}
+}
